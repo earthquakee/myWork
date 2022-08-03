@@ -1,0 +1,3 @@
+[submodule "ticket/vue2"]
+	path = ticket/vue2
+	url = https://github.com/earthquakee/myWork.git
